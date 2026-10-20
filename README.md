@@ -1,4 +1,4 @@
-# UFC Fight Outcome Prediction System
+# UFC Fight Outcome Prediction
 
 > Professional-grade machine learning system for predicting UFC fight outcomes using advanced feature engineering and ensemble methods
 
